@@ -26,7 +26,7 @@ To get started with NOS, follow these steps:
    git clone https://github.com/Venomxd27/NOS.git
    ```
 2. **Build and run the project:**
-  ```bash
-  cd NOS
-  cargo run
-  ```
+   ```bash
+   cd NOS
+   cargo run
+   ```
